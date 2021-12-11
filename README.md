@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<p>### Hi there 👋</p>
+<p align="center">
+  
+![program2](https://user-images.githubusercontent.com/73396744/145659945-4058c830-21be-42c2-8e5f-6648a9aef783.jpeg)
 
 **magaliMoran/magaliMoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![Uploading program2.jpeg…]()
+
 - ⚡ Fun fact: ...
 
